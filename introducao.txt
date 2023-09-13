@@ -1,0 +1,1 @@
+Pude conhecer o que é Git e GitHub de uma maneira mais conceitual e profunda. Sendo o Git um sistema de controle de versão de arquivos e o GitHub um serviço para hospedar projetos Git;

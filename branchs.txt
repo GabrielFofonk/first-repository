@@ -1,0 +1,5 @@
+O termo "branchs" em português significa "Ramos", e é basicamente o conceito deste elemento, ramificar o seu repositório. Através dos Branchs, diversas pessoas podem trabalhar em um projeto ao mesmo tempo, com definindo ou criando arquivos específicos em diferentes partes do mesmo. Os principais comandos para trabalhar com Branchs são:
+git branch
+git branch [nome] - para criar
+git branch -d [nome] - para deletar
+git checkout -b [nome] - muda para branch que acabou de ser criada

@@ -1,0 +1,1 @@
+Através do link:  https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Instalando-o-Git, pude instalar o git no meu Desktop e , através do terminal realizei as configurações instruidas pelo professor. Primeiro: Digite "git config --global user.name 'Gabriel Fofonka'", Segundo: "git config --global  user.email 'gabriefofonka@gmail.com'" e Terceiro para conferir: "git config --list"

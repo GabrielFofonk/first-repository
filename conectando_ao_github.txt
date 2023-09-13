@@ -1,0 +1,1 @@
+Após criarmos a nossa conta no GitHub, podemos criar repositórios e guardar os arquivos contidos no servidor através de comandos do Git.
